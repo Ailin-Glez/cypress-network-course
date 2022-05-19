@@ -20,28 +20,9 @@ The public repository has test placeholders to be filled by the actual Cypress c
 
 Should install all dependencies, including Cypress
 
-## Start writing tests
-
-- Enroll in the course
-- Watch the introduction lesson
-- Open the first test [spec01.js](./cypress/integration/spec01.js) and try implementing it following the comments
-- Watch the lesson that covers the `spec01.js` to see if your solution matches mine
 
 ## Tests
 
-There are 60+ tests, to see them all use [find-cypress-specs](https://github.com/bahmutov/find-cypress-specs)
+There are 60+ tests, to see them all use [find-cypress-specs](https://github.com/Ailin-Glez/cypress-network-course/tree/main/fastify-example-tests/cypress/integration)
 
-```
-$ npm run print
-...
-
-cypress/integration/spec30.js (1 test)
-└─ handles test flake using the test retries
-
-found 45 specs (63 tests, 8 pending)
-```
-
-## Feedback
-
-These tests were set up by Gleb Bahmutov. If you have any feedback about these tests and the course, drop me an email
 
