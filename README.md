@@ -12,7 +12,7 @@ The public repository has test placeholders to be filled by the actual Cypress c
 ## Requirements
 
 - Node.js >= 14 check with `node -v`
-- clone the example application repo [fastify-example](https://github.com/bahmutov/fastify-example), install its dependencies and start the application. It should be running at `localhost:4200`
+- clone the example application repo [fastify-example](https://github.com/bahmutov/fastify-example), install its dependencies and start the application. It should be running at `localhost:3200`
 
 ## Install
 
